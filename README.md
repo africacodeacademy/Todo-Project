@@ -23,3 +23,4 @@ You can use mongo, supabase or firebase to store your data. Make the web app all
 
 You are expected to submit your code via github and have a deployed version on one of the following free hosting services: Netlify, Vercel, Heroku, Firebase or any other platform of your choice.
 
+Completion Time : 4 1/2 Days
